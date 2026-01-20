@@ -1,8 +1,4 @@
-# GitHub Stars Effect
-
-### [▶️ 📺 YouTube recording of the presetnation](https://youtu.be/Mikn2MXPaNg)
-
-[![](./presentation/public/01.png)](./presentation/slides-export.pdf)
+# GitHub Stars Effect-ts + React-native
 
 ## Requirements
 
