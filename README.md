@@ -34,7 +34,13 @@ For web version go to: http://localhost:8081
 
 ---
 
----
+## Running Fresh
+
+```
+pnpm nx run github-stars-effect-server:drizzle-kit -- migrate 
+pnpm start-server
+pnpm start-client
+```
 
 ---
 
@@ -98,9 +104,3 @@ It will show tasks that you can run with Nx.
 - [Join the community](https://nx.dev/community)
 - [Subscribe to the Nx Youtube Channel](https://www.youtube.com/@nxdevtools)
 - [Follow us on Twitter](https://twitter.com/nxdevtools)
-
-
-```
-pnpm nx run github-stars-effect-server:drizzle-kit -- migrate 
-pnpm start-server
-```

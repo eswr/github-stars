@@ -68,3 +68,4 @@ cache/
 /docker/local/tempo-data
 
 .tamagui
+.env
